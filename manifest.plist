@@ -11,9 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>https://drive.google.com/uc?export=download&ampid=1hP7CbDwjV8Ww6QRpAIrqiJDSFKhHWQ3P&ampconfirm=t&ampuuid=6ad3dfdc-a736-41d2-aed8-12a3f33865c2</string>
-						<!-- <string>https://dl.dropboxusercontent.com/s/tv5w6yo7lppvg7x/HuntersRanchAR.ipa</string> -->
-						<!-- <string>https://drive.google.com/file/d/1v2qKA2IXRQEq0dB4luCybKf-Yv3Eii_U</string> -->
+						<string>https://storage.googleapis.com/aireal-apps-pub/Distro_HuntersRanchAR-IOS-Shipping.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
