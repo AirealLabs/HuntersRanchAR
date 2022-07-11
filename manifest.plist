@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd ">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
 		<key>items</key>
@@ -11,17 +11,31 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>https://storage.googleapis.com/aireal-apps-pub/Distro_HuntersRanchAR-IOS-Shipping.ipa</string>
+						<string>https://storage.googleapis.com/aireal-apps-pub/HuntersRanchAR.ipa</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>url</key>
+						<string>https://storage.googleapis.com/aireal-apps-pub/Aireal_logo_White57.png</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>url</key>
+						<string>https://storage.googleapis.com/aireal-apps-pub/Aireal_logo_White512.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.aireal.HuntersRanchARApp</string>
+					<string>com.aireal.JwallARTest</string>
 					<key>bundle-version</key>
 					<string>1.0</string>
 					<key>kind</key>
 					<string>software</string>
+					<key>platform-identifier</key>
+					<string>com.apple.platform.iphoneos</string>
 					<key>title</key>
 					<string>HuntersRanchAR</string>
 				</dict>
